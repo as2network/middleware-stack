@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "anchoring-api/",
+    "edianchor/"
+  ],
+  "version": "1.0.0"
+}
