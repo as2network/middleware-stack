@@ -1,0 +1,18 @@
+{
+  "name": "@as2network/middleware",
+  "version": "1.0.0",
+  "description": "middleware",
+  "files": ["**/*"],
+  "scripts": {
+    "install": "npx lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as2network/middleware-stack.git"
+  },
+  "keywords": [],
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
